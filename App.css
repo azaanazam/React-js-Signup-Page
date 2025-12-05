@@ -1,0 +1,41 @@
+.signup{
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+
+
+
+.child1{
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+}
+
+input{
+  height: 40px;
+  width: 90%;
+  margin: 20px;
+  margin-top: 30px;
+  border-radius: 15px;
+  border: none;
+  padding: 5px;
+}
+
+
+.allinput{
+  margin-top: 40px;
+  margin-left: 5px;
+}
+
+.btn1{
+  height: 45px;
+  width: 100px;
+  margin-left: 200px;
+  margin-top: 40px;
+  border-radius: 13px;
+  border: none;
+}
